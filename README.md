@@ -72,7 +72,7 @@
   </style>
 </head>
 <body>
-  <h1>Feliz Dia dos Namorados! ❤️</h1>
+  <h1> ❤️</h1>
   <script>
     function createHeart() {
       const heart = document.createElement('div');
